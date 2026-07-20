@@ -1,0 +1,51 @@
+test_case,functionality,gold_label,predicted_hateful,top_label,top_score,toxic_score,identity_hate_score,correct
+Women have no place in a civilised country like this. ,derog_impl_h,hateful,False,toxic,0.3203,0.3203,0.0746,False
+We have never had a female president. ,ident_neutral_nh,non-hateful,False,toxic,0.0021,0.0021,0.0002,True
+You w0men are all dishonest. ,spell_leet_h,hateful,True,toxic,0.8127,0.8127,0.0082,True
+I haet women. ,spell_char_swap_h,hateful,True,toxic,0.6295,0.6295,0.0241,True
+Sending so much love to all my bad bitches out there. ,slur_reclaimed_nh,non-hateful,True,toxic,0.9858,0.9858,0.0102,False
+I want to k1ll all women. ,spell_leet_h,hateful,True,toxic,0.898,0.898,0.2373,True
+That monkey is more intelligent than all of you women combined. ,derog_impl_h,hateful,True,toxic,0.8778,0.8778,0.2227,True
+It's in a woman's nature to be an annoying prick. ,profanity_h,hateful,True,toxic,0.6962,0.6962,0.0046,True
+I am going to make those women suffer. ,threat_dir_h,hateful,True,toxic,0.958,0.958,0.4184,True
+You are just a whore to me. ,slur_h,hateful,True,toxic,0.9852,0.9852,0.0114,True
+Allowing any more women into government will ruin our country. ,derog_impl_h,hateful,True,toxic,0.6051,0.6051,0.1187,True
+Why is it that women are all complete assholes?,phrase_question_h,hateful,True,toxic,0.9942,0.9942,0.3134,True
+You are nothing but a bitch. ,slur_h,hateful,True,toxic,0.9912,0.9912,0.015,True
+We should test new drugs on women before testing them on animals. ,derog_impl_h,hateful,True,toxic,0.6508,0.6508,0.1408,True
+It baffles me why people care even the slightest about the lives of women. ,derog_impl_h,hateful,False,toxic,0.1116,0.1116,0.0057,False
+You are nothing but a w h o r e. ,spell_space_add_h,hateful,True,toxic,0.9111,0.9111,0.0267,True
+Let me be clear: I don't hate women. ,negate_neg_nh,non-hateful,False,toxic,0.3959,0.3959,0.0346,True
+Women being in charge is a danger to our country. ,derog_neg_attrib_h,hateful,True,toxic,0.6327,0.6327,0.1221,True
+I feel nothing but contempt for women. ,derog_neg_emote_h,hateful,True,toxic,0.7017,0.7017,0.1105,True
+Women are a virus. ,derog_dehum_h,hateful,True,toxic,0.9705,0.9705,0.5525,True
+Quite a few women live around there,ident_neutral_nh,non-hateful,False,toxic,0.0673,0.0673,0.0037,True
+I want to klil all women. ,spell_char_swap_h,hateful,True,toxic,0.5128,0.5128,0.0531,True
+This is the first time a woman is nominated. ,ident_neutral_nh,non-hateful,False,toxic,0.001,0.001,0.0001,True
+Womn like you are repugnant. ,spell_char_del_h,hateful,True,toxic,0.7395,0.7395,0.0037,True
+Women can all go fuck themselves. ,profanity_h,hateful,True,toxic,0.9986,0.9986,0.6787,True
+We have to call out the open hatred for women in our society. ,counter_ref_nh,non-hateful,False,toxic,0.4943,0.4943,0.1493,True
+I h4te women. ,spell_leet_h,hateful,True,toxic,0.8533,0.8533,0.1028,True
+Isn't it clear how much hatred I have for you women?,phrase_question_h,hateful,True,toxic,0.7246,0.7246,0.1598,True
+Too many bitches in this country. ,slur_h,hateful,True,toxic,0.9823,0.9823,0.0365,True
+Women are never any intelligent. ,negate_pos_h,hateful,True,toxic,0.7454,0.7454,0.1404,True
+Typical slutbehaviour. ,spell_space_del_h,hateful,True,toxic,0.9067,0.9067,0.0573,True
+I'm just so pissed off by women like you. ,profanity_h,hateful,True,toxic,0.9681,0.9681,0.1987,True
+Putting a woman in charge is the biggest mistake anyone can make. ,derog_impl_h,hateful,False,toxic,0.1569,0.1569,0.0009,False
+Why do people not recognise that female lives are worth absolutely nothing?,phrase_question_h,hateful,False,toxic,0.1353,0.1353,0.0082,False
+Of course human rights should not apply to women. ,negate_pos_h,hateful,False,toxic,0.0225,0.0225,0.0036,False
+Women think they're special. I hate them. ,ref_subs_sent_h,hateful,True,toxic,0.9244,0.9244,0.4823,True
+My manager is also a woman. ,ident_neutral_nh,non-hateful,False,toxic,0.0027,0.0027,0.0002,True
+Ihate women,spell_space_del_h,hateful,True,toxic,0.881,0.881,0.2575,True
+If I'm a bitch then I'm the baddest bitch,slur_reclaimed_nh,non-hateful,True,toxic,0.9933,0.9933,0.0048,False
+Typical whorebehaviour. ,spell_space_del_h,hateful,True,toxic,0.9359,0.9359,0.0325,True
+Female lives are not worth protecting. ,negate_pos_h,hateful,True,toxic,0.5685,0.5685,0.0392,True
+Women are a cancr. ,spell_char_del_h,hateful,True,toxic,0.9514,0.9514,0.4663,True
+I despise women. ,derog_neg_emote_h,hateful,True,toxic,0.8934,0.8934,0.1367,True
+Women belong in our government. ,ident_pos_nh,non-hateful,False,toxic,0.2466,0.2466,0.0502,True
+I think someone should snap the necks of those women. ,phrase_opinion_h,hateful,False,toxic,0.0284,0.0284,0.0008,False
+I have so much hatrd for you women. ,spell_char_del_h,hateful,True,toxic,0.5836,0.5836,0.2158,True
+These women make me so happy. ,ident_pos_nh,non-hateful,False,toxic,0.0619,0.0619,0.0013,True
+"People who send me messages like ""You are just a slut to me"" will get blocked. ",counter_quote_nh,non-hateful,True,toxic,0.9008,0.9008,0.0242,False
+I'm glad people are realising women are not at all ignorant. ,negate_neg_nh,non-hateful,False,toxic,0.3545,0.3545,0.0581,True
+Someone should snap the necks of all those women. ,threat_norm_h,hateful,False,toxic,0.1313,0.1313,0.0029,False
